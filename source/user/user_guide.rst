@@ -5,13 +5,13 @@ The default lizmap page offers a list maps organized by folder.
 
 .. image:: /images/user-guide-01-projects.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 You can access to the map information sheet. This informations come directly from QGIS project.
 
 .. image:: /images/user-guide-02-information.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Access to the map is done either by clicking the **Load the map** buttons or the image that accompanies the project.
 
@@ -31,31 +31,31 @@ The order and organization of layers in the layers panel management meet those d
 
 .. image:: /images//user-guide-03-simple-map.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Zooming and paning are available on the right of the map. To zoom on an area, you need to select the *zoom by rectangle* and drag to draw a rectangle defining the area to reach.
 
 .. image:: /images//user-guide-03-simple-map-zoom.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 You can using the *triangle*, left the layers title, bring up the legend of the layer.
 
 .. image:: /images//user-guide-04-legend.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Selection boxes allow you to hide and display the proposed layers.
 
 .. image:: /images//user-guide-05-show-hide-layer.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 To take full advantage of the map, you can hide the panel management layers.
 
 .. image:: /images//user-guide-06-hide-layer-switcher.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Finally you can:
 
@@ -69,13 +69,13 @@ The admin can restrict access to certain map groups. To access these maps, you m
 
 .. image:: /images//user-guide-07-authentication.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Once authentication is enabled, depending on your rights, you should have access to new maps.
 
 .. image:: /images//user-guide-07-authentication-projects.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 You can log out and edit your user information.
 
@@ -92,7 +92,7 @@ The map publisher can add some features depending on the desired user experience
 
 .. image:: /images//user-guide-07-advanced-features.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Selecting a basemap
 -------------------------------
@@ -101,7 +101,7 @@ Using the Lizmap plugin, the editor may have added external base maps or an empt
 
 .. image:: /images//user-guide-08-baselayers.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Locate by layer
 ---------------------------
@@ -112,14 +112,14 @@ It is located above the layer management panel and is in the form of lists. Some
 
 .. image:: /images//user-guide-09-locate-by-layer.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 
 Simply select a location from the list to zoom to the item.
 
 .. image:: /images//user-guide-09-locate-by-layer-zoom.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Measurement
 ------------
@@ -134,19 +134,19 @@ It is available in the Lizmap menu bar.
 
 .. image:: /images//user-guide-10-measure-menu.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 The tool is activated by selecting the measurement type. Once activated, a message tells you what to do.
 
 .. image:: /images//user-guide-11-measure-activated.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 The measurement is displayed in the status bar.
 
 .. image:: /images//user-guide-12-measure-value.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 By double-clicking on the map, the measurement is fixed. To start over, you can click on the map and restart the measurement calculation.
 
@@ -154,7 +154,7 @@ In the feature bar, the button on the right allows to stop using it.
 
 .. image:: /images//user-guide-13-measure-stop.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 It is also possible to change the measurement functionality without having to stop the feature.
 
@@ -166,31 +166,31 @@ The print feature is available in the Lizmap menu bar. It depends on the number 
 
 .. image:: /images//user-guide-14-print-menu.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Once the feature activated, a print area with the form of the composition is displayed on the map. Use this area to define the area to be printed. You can move it.
 
 .. image:: /images//user-guide-15-print-zone.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 On the left, above the panel layer management, you can select the scale of printing.
 
 .. image:: /images//user-guide-16-print-scale.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Depending on the configuration of the printing composition, you can have the possibility to enter your own text.
 
 .. image:: /images//user-guide-17-print-input.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 To begin building the print file, you can click on *Print*. You will get a PDF file with the layout defined by the map publisher.
 
 .. image:: /images//user-guide-18-print-result.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 
 Editing spatial data
@@ -207,13 +207,13 @@ The feature is available in the Lizmap menu bar. The edit menu allows you to sel
 
 .. image:: /images//user-guide-19-edition-menu.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Once the layer selected, the edit pannel appears. This varies depending on the configuration desired by the map publisher. If any changes are available you have to choose between *Add* a new object or *Select* one.
 
 .. image:: /images//user-guide-20-edition-add.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 If you have selected *Add*, you will be asked to draw a simple form that depends on the selected data layer:
 
@@ -225,13 +225,13 @@ In the case of line and polygon, you need to click several times to draw the sha
 
 .. image:: /images//user-guide-21-edition-add-draw.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 To finish your line or your polygon you must add the last point by double-clicking the desired location. Once drawing finished, an editing form for fields will be displayed.
 
 .. image:: /images//user-guide-22-edition-add-attributes.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 If you want to restart drawing the geometry, you should click *Cancel*.
 
@@ -241,43 +241,43 @@ To select an object to update, you can click on the button *Select*.
 
 .. image:: /images//user-guide-23-edition-select.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Once the selection tool is activated, you must click on the map to identify the object you want to edit.
 
 .. image:: /images//user-guide-24-edition-select-click.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 The list of editable objects below the location of the clicks will appear. You will be able to select exactly the object to modify.
 
 .. image:: /images//user-guide-25-edition-select-list.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 The selected object appears on the map and its geometry may be changed immediatly.
 
 .. image:: /images//user-guide-26-edition-select-draw.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 You can undo geometry changes using the "Undo" button.
 
 .. image:: /images//user-guide-27-edition-select-draw-undo.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 To validate your geometry modifications or simply access the editing form for fields, you must click *Edit*.
 
 .. image:: /images//user-guide-28-edition-select-draw-validate.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 A dialog box containing the editing form for fields of the object appears.
 
 .. image:: /images//user-guide-29-edition-select-draw-form.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 The *Save* button saves the geometry and attributes changes.
 
@@ -287,7 +287,7 @@ Finally, to disable editing tool, simply click on *Stop*.
 
 .. image:: /images//user-guide-30-edition-stop.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 
 

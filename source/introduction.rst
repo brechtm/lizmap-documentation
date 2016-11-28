@@ -76,7 +76,7 @@ Finally Lizmap is a proxy to the web services used to construct maps. It is ther
 
 .. image:: images/introduction-alaska-map.png
    :align: center
-   :scale: 80%
+   :width: 80%
 
 Configuration with QGIS
 ------------------------
@@ -123,7 +123,7 @@ The rest is done with the **Lizmap plugin**. This plugin allows to:
 
 .. image:: images/introduction-montpellier-map.png
    :align: center
-   :scale: 80%
+   :width: 80%
    :target: http://demo.3liz.com/lizmap/index.php/view/map?repository=montpellier&project=montpellier
 
 Configuring with the Web back-office
