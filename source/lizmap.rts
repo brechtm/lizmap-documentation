@@ -1,0 +1,17 @@
+[STYLESHEET]
+name=LizMap custom style
+description=Small tweaks made to the Sphinx style sheet
+base=sphinx
+
+[title page logo]
+width=80%
+horizontal_align=right
+
+[title page author]
+space_above=30pt
+
+[title page date]
+space_above=30pt
+
+[table of contents]
+depth=3

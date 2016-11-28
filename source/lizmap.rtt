@@ -1,0 +1,7 @@
+[TEMPLATE_CONFIGURATION]
+name = LizMap
+template = book
+stylesheet = lizmap.rts
+
+[title_page]
+show_date = true

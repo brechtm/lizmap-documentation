@@ -29,6 +29,7 @@ extensions = [
     'sphinx.ext.imgmath',
     'sphinx.ext.todo',
     'sphinx.ext.ifconfig',
+    'rinoh.frontend.sphinx',
 ]
 todo_include_todos = 0
 
@@ -218,6 +219,7 @@ latex_logo = 'MEDIA/logo_big.png'
 # If false, no module index is generated.
 #latex_domain_indices = True
 
+rinoh_template = 'lizmap.rtt'
 
 # -- Options for manual page output --------------------------------------------
 
